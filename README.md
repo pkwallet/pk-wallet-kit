@@ -13,9 +13,9 @@ a rollback a one-line change.
 
 | Artifact | Package | Version | Size | Download |
 | --- | --- | --- | --- | --- |
-| `ep.apk` | `pk.com.telenor.phoenix` | 2.10.8 (547) | 184.6 MiB | [v1.0.0](https://github.com/WangHongSen391/pk-wallet-kit/releases/download/v1.0.0/ep.apk) |
-| `jz.apk` | `com.techlogix.mobilinkcustomer` | 9.1.89 (9189) | 247.3 MiB | [v1.0.0](https://github.com/WangHongSen391/pk-wallet-kit/releases/download/v1.0.0/jz.apk) |
-| `jcb.apk` | `com.ibm.jazzcashmerchant` | 1.2.46 (186) | 112.7 MiB | [v1.0.0](https://github.com/WangHongSen391/pk-wallet-kit/releases/download/v1.0.0/jcb.apk) |
+| `ep.apk` | `pk.com.telenor.phoenix` | 2.10.8 (547) | 184.6 MiB | [v1.0.0](https://github.com/pkwallet/pk-wallet-kit/releases/download/v1.0.0/ep.apk) |
+| `jz.apk` | `com.techlogix.mobilinkcustomer` | 9.1.89 (9189) | 247.3 MiB | [v1.0.0](https://github.com/pkwallet/pk-wallet-kit/releases/download/v1.0.0/jz.apk) |
+| `jcb.apk` | `com.ibm.jazzcashmerchant` | 1.2.46 (186) | 112.7 MiB | [v1.0.0](https://github.com/pkwallet/pk-wallet-kit/releases/download/v1.0.0/jcb.apk) |
 
 Checksums for every artifact are in the release notes and in `SHA256SUMS`.
 Verify before installing:

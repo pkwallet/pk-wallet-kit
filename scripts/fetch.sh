@@ -9,7 +9,7 @@ set -euo pipefail
 TAG="${1:?usage: fetch.sh <tag> <ep|jz|jcb>}"
 NAME="${2:?usage: fetch.sh <tag> <ep|jz|jcb>}"
 
-REPO="${REPO:-WangHongSen391/pk-wallet-kit}"
+REPO="${REPO:-pkwallet/pk-wallet-kit}"
 OUT="${OUT:-out}"
 BASE="https://github.com/${REPO}/releases/download/${TAG}"
 
