@@ -1,0 +1,12 @@
+# Build artifacts (binaries live in GitHub Releases, not in git)
+*.apk
+*.aab
+*.zip
+*.idsig
+*.keystore
+*.jks
+
+# Local scratch
+/out/
+/.cache/
+.DS_Store
